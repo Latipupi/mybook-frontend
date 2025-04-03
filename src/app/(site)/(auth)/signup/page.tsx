@@ -1,20 +1,20 @@
-import SignUp from "@/components/Auth/SignUp";
-import Breadcrumb from "@/components/Common/Breadcrumb";
-import { Metadata } from "next";
+// import SignUp from "@/components/Auth/SignUp";
+// import Breadcrumb from "@/components/Common/Breadcrumb";
+// import { Metadata } from "next";
 
-export const metadata: Metadata = {
-  title:
-    "Sign Up | Play SaaS Starter Kit and Boilerplate for Next.js",
-};
+// export const metadata: Metadata = {
+//   title:
+//     "Sign Up | Play SaaS Starter Kit and Boilerplate for Next.js",
+// };
 
-const SignupPage = () => {
-  return (
-    <>
-      <Breadcrumb pageName="Sign Up Page" />
+// const SignupPage = () => {
+//   return (
+//     <>
+//       <Breadcrumb pageName="Sign Up Page" />
 
-      <SignUp />
-    </>
-  );
-};
+//       <SignUp />
+//     </>
+//   );
+// };
 
-export default SignupPage;
+// export default SignupPage;
